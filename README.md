@@ -55,7 +55,3 @@ Este projeto é uma aplicação web que permite organizar sorteios de amigo secr
 - A aplicação mantém a lista de participantes apenas durante a sessão atual
 - O sorteio é realizado de forma aleatória
 - A lista é limpa automaticamente após cada sorteio
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
