@@ -9,7 +9,6 @@ function adicionarAmigo() {
     if (nome !== "") {
         amigos.push(nome);
         input.value = "";
-        resultado.textContent = "";
     } else {
         alert("Por favor, digite um nome.");
     }
